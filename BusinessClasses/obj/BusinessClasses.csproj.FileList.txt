@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\BusinessClasses.dll
+bin\Debug\BusinessClasses.pdb
+bin\Debug\DataBaseClasses.dll
+bin\Debug\DBDAL.dll
+bin\Debug\DBDAL.pdb
+bin\Debug\DataBaseClasses.pdb
+obj\Debug\BusinessClasses.dll
+obj\Debug\BusinessClasses.pdb

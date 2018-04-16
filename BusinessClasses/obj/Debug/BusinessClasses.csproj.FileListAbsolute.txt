@@ -1,0 +1,263 @@
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.dll
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\WORK\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.dll
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.dll
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.pdb
+D:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.xml
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.dll
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.dll
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.pdb
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.xml
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\Xunlei\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.pdb
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.dll
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.pdb
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.dll
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.dll
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.dll
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.pdb
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.pdb
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.xml
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.dll
+K:\WORK\二阶段\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.pdb
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.dll
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.dll
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.dll
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.pdb
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.pdb
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.xml
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Documents and Settings\Administrator\桌面\最新\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\公司ERP\RADinfo_MIS_COST\BusinessClasses\obj\Debug\BusinessClasses.pdb
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\BusinessClasses.dll
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\BusinessClasses.pdb
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\DataBaseClasses.dll
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\DBDAL.dll
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\Qing.dll
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\DBDAL.pdb
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\Qing.pdb
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\Qing.xml
+F:\RADinfo_MIS_COST20110413\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+F:\RADinfo_MIS_COST20110413\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\RADinfo_MIS_COST20110413\BusinessClasses\obj\Debug\BusinessClasses.dll
+F:\RADinfo_MIS_COST20110413\BusinessClasses\obj\Debug\BusinessClasses.pdb
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\BusinessClasses.dll
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\BusinessClasses.pdb
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\DataBaseClasses.dll
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\DBDAL.dll
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\Qing.dll
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\DBDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\Qing.pdb
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\Qing.xml
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\obj\Debug\BusinessClasses.dll
+C:\Documents and Settings\Administrator\桌面\ERP备份\RADinfo_MIS_COST20110414\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20111104\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120202\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120208\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120216News\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120217News\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120302News\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120314News\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\新建文件夹 (2)\RADinfo_MIS_COST20120316test\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120326test\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\DBDAL.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\Qing.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\Qing.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\Qing.xml
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\工作\工作\DOTNET.Code\公司ERP\RADinfo_MIS_COST20120409test\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\项目\公司ERP\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\项目\公司ERP\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\项目\公司ERP\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\项目\公司ERP\BusinessClasses\bin\Debug\DBDAL.dll
+D:\项目\公司ERP\BusinessClasses\bin\Debug\Qing.dll
+D:\项目\公司ERP\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\项目\公司ERP\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\项目\公司ERP\BusinessClasses\bin\Debug\Qing.pdb
+D:\项目\公司ERP\BusinessClasses\bin\Debug\Qing.xml
+D:\项目\公司ERP\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+D:\项目\公司ERP\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\项目\公司ERP\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\项目\维服系统\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+D:\项目\维服系统\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\项目\维服系统\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\项目\维服系统\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\项目\维服系统\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\项目\维服系统\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\项目\维服系统\BusinessClasses\bin\Debug\DBDAL.dll
+D:\项目\维服系统\BusinessClasses\bin\Debug\Qing.dll
+D:\项目\维服系统\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\项目\维服系统\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\项目\维服系统\BusinessClasses\bin\Debug\Qing.pdb
+D:\项目\维服系统\BusinessClasses\bin\Debug\Qing.xml
+D:\维服系统\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\维服系统\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\维服系统\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\维服系统\BusinessClasses\bin\Debug\Qing.dll
+D:\维服系统\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\维服系统\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\维服系统\BusinessClasses\bin\Debug\Qing.pdb
+D:\维服系统\BusinessClasses\bin\Debug\Qing.xml
+D:\维服系统\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+D:\维服系统\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\维服系统\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\维服系统\BusinessClasses\bin\Debug\DBDAL.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\BusinessClasses.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\BusinessClasses.pdb
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\DataBaseClasses.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\DBDAL.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\Qing.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\DataBaseClasses.pdb
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\DBDAL.pdb
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\obj\Debug\BusinessClasses.csprojResolveAssemblyReference.cache
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\obj\Debug\BusinessClasses.csproj.CoreCompileInputs.cache
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\obj\Debug\BusinessClasses.csproj.CopyComplete
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\obj\Debug\BusinessClasses.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\obj\Debug\BusinessClasses.pdb
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\MySql.Data.dll
+D:\公司.NET项目文件夹\RedWeiFu\BusinessClasses\bin\Debug\DataBaseClasses.dll.config

@@ -1,0 +1,13 @@
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\RedWeiFu.Component.dll.config
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\RedWeiFu.Component.dll
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\RedWeiFu.Component.pdb
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\EntityFramework.dll
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\EntityFramework.SqlServer.dll
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\MySql.Data.dll
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\EntityFramework.xml
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\bin\Debug\EntityFramework.SqlServer.xml
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\obj\Debug\RedWeiFu.Component.csproj.CoreCompileInputs.cache
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\obj\Debug\RedWeiFu.Component.csproj.CopyComplete
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\obj\Debug\RedWeiFu.Component.dll
+D:\公司.NET项目文件夹\RedWeiFu\RedWeiFu.Component\obj\Debug\RedWeiFu.Component.pdb
