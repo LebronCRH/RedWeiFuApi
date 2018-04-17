@@ -88,4 +88,3 @@ D:\公司.NET项目文件夹\RedWeiFu\RedWeiFuApi\bin\MySql.Data.dll
 D:\公司.NET项目文件夹\RedWeiFu\RedWeiFuApi\bin\MySql.Data.Entity.EF6.dll
 D:\公司.NET项目文件夹\RedWeiFu\RedWeiFuApi\bin\EntityFramework.xml
 D:\公司.NET项目文件夹\RedWeiFu\RedWeiFuApi\bin\EntityFramework.SqlServer.xml
-D:\公司.NET项目文件夹\RedWeiFu\RedWeiFuApi\obj\Debug\RedWeiFuApi.csprojResolveAssemblyReference.cache

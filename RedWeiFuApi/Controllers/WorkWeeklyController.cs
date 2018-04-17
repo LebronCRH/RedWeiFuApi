@@ -24,9 +24,17 @@ namespace RedWeiFuApi.Controllers
         //protected string userName = "陈昱汶";
 
         [HttpGet,Route("GetWeeklyNotes")]
-        public List<WeeklyNotes> GetWeeklyNotes(string UserName)
+        public List<WeeklyNotes> GetWeeklyNotes(string UserName,string DateSelect="")
         {
-            DateTime Day = DateTime.Today;
+            DateTime Day;
+            if (string.IsNullOrEmpty(DateSelect))
+            {
+                 Day = DateTime.Today;
+            }
+            else
+            {
+                 Day = DateTime.Parse(DateSelect);
+            }
             if (!string.IsNullOrEmpty(userName))
             {
                 UserName = userName;
@@ -85,7 +93,7 @@ namespace RedWeiFuApi.Controllers
                 if (Flag)
                 {
                     weeklyItem.NoteDate = day1;
-                    weeklyItem.Name = userName;
+                    weeklyItem.Name = UserName;
                     weeklynotes3.Add(weeklyItem);
                 }
             }
@@ -98,9 +106,21 @@ namespace RedWeiFuApi.Controllers
         /// <param name="FirstDay">日期</param>
         /// <returns></returns>
         [HttpGet,Route("GetSummaryAndPlan")]
-        public List<SummaryAndPlan> GetSummaryAndPlan()
+        public SummaryAndPlan GetSummaryAndPlan(string UserName, string DateSelect = "")
         {
-            DateTime Day = DateTime.Today;
+            DateTime Day;
+            if (string.IsNullOrEmpty(DateSelect))
+            {
+                Day = DateTime.Today;
+            }
+            else
+            {
+                Day = DateTime.Parse(DateSelect);
+            }
+            if (!string.IsNullOrEmpty(userName))
+            {
+                UserName = userName;
+            }
             //获取本周第一天  
             int Weeknow = Convert.ToInt32(Day.DayOfWeek);
             //因为是以星期一为第一天，所以要判断weeknow等于0时，要向前推6天。  
@@ -118,7 +138,7 @@ namespace RedWeiFuApi.Controllers
             List<SummaryAndPlan> sp = new List<SummaryAndPlan>();
             DataTable dt2 = new DataTable();
             StringBuilder select2 = new StringBuilder();
-            select2.AppendFormat("select * from summaryandplan where writedate = '{0}' and writer = '{1}'", FirstDay, userName);
+            select2.AppendFormat("select * from summaryandplan where writedate = '{0}' and writer = '{1}'", FirstDay, UserName);
             dt2 = MySqlHelper.mySqlExecuteQuery(select2.ToString(), null, false);
             sp = (from y in dt2.AsEnumerable()
                   select new SummaryAndPlan
@@ -126,20 +146,28 @@ namespace RedWeiFuApi.Controllers
                       Plan = y.Field<string>("Plan"),
                       Summary = y.Field<string>("summary")
                   }).ToList<SummaryAndPlan>();
-            return sp;
+            if (sp.FirstOrDefault() != null)
+            {
+                return sp.FirstOrDefault();
+            }
+            else
+            {
+                SummaryAndPlan sp2 = new SummaryAndPlan();
+                return sp2;
+            }
         }
 
         [HttpPost, Route("SaveNote")]
-        public int SaveNote([FromBody]WeeklyNotes value)
+        public WeeklyNotes SaveNote([FromBody]WeeklyNotes value)
         {
             SaveEntity se = new SaveEntity();
             if (se.SaveWeeklyNote(value))
             {
-                return 1;
+                return value;
             }
             else
             {
-                return 0;
+                return null;
             }
         }
 
