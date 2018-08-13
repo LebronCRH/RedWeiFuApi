@@ -25,6 +25,11 @@ namespace RedWeiFuApi.Models
             get { return _reqtitle; }
             set { _reqtitle = value; }
         }
+
+        public string ReqAttach
+        {
+            get;set;
+        }
         /// <summary>
         /// ReqContent
         /// </summary>		

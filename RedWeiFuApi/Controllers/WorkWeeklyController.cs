@@ -184,6 +184,24 @@ namespace RedWeiFuApi.Controllers
             }
         }
 
+        [HttpPost, Route("SaveNoteAndSumAndPlan")]
+        public NoteAndSummary SaveNoteAndSumAndPlan([FromBody]NoteAndSummary value) {
+            NoteAndSummary Item =(NoteAndSummary)value;
+            SaveEntity se = new SaveEntity();
+            if (value == null)
+            {
+                return value;
+            }
+            if (se.SaveWeeklyNote(Item.notes) && se.SaveSummary(Item.sumandplan))
+            {
+                return value;
+            }
+            else
+            {
+                return null;
+            }
+        }
+
         [HttpGet, Route("UserLogin")]
         public ServiceUser UserLogin(string UserName, string UserPassword)
         {

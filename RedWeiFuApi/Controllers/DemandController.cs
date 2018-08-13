@@ -118,18 +118,26 @@ namespace RedWeiFuApi.Controllers
                 sql = "select parentValue from `unit` where UnitName='" + DemandHosital.ToString() + "'";
                 string parentValue = MySqlHelper.ExecuteScalar(sql, null, false).ToString();
                 string attachUrl = null;
-                string TimePath = HttpContext.Current.Server.MapPath("~/RequireFile/").ToString() + "\\";//获取上传路径的物理地址 
+                //string TimePath = HttpContext.Current.Server.MapPath("~/RequireFile/ReqTrack/").ToString() + "\\";//获取上传路径的物理地址
+                string TimePath= "D:\\公司维服系统\\ServiceInfo\\admin\\upload\\ReqTrack\\";
                 if (!Directory.Exists(TimePath))//判断文件夹是否存在 
                 {
                     Directory.CreateDirectory(TimePath);//不存在则创建文件夹 
                 }
-
+                //FtpHelper ftp = new FtpHelper("192.168.1.5:8087", "RequireFile", "administrator", "2008.R2");
                 foreach (string f in files.AllKeys)
                 {
                     HttpPostedFile file = files[f];
+
                     if (string.IsNullOrEmpty(file.FileName) == false)
-                        file.SaveAs(HttpContext.Current.Server.MapPath("~/RequireFile/") + file.FileName);
-                    attachUrl = file.FileName;
+                    {
+                        //file.SaveAs(HttpContext.Current.Server.MapPath("~/RequireFile/") + file.FileName);
+                        //string FileUrl = "http://192.168.1.5:8085/RequireFile/" + file.FileName;
+                        file.SaveAs(@"D:\公司维服系统\ServiceInfo\admin\upload\ReqTrack\" + file.FileName);
+                        //file.SaveAs(TimePath + file.FileName);
+                        //ftp.Upload2(file);
+                    }
+                    attachUrl = "upload/ReqTrack/" + file.FileName;
                 }
 
                 sql = string.Format("insert into RequirementTrack (ReqTitle,ReqContent,ReqSource,ReqRegistrer,ReqDeveloper,ReqStatus,ReqTime,ReqReplyTime,ReqRemark,ReqAssignDev,ReqHospital,ReqHospitalParent,ReqClass,ReqServiceID,ReqServiceName,ReqAttach) values('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}','{10}','{11}',{12},'{13}','{14}','{15}')", DemandTitle, DemandContent, userIdentity, userName, DemandDeveloper, DemandStatus, dateNow, dateNow, "", DemandUser, DemandHosital, parentValue, 1, DemandOrderNo, DemandServiceName, attachUrl);
@@ -157,6 +165,7 @@ namespace RedWeiFuApi.Controllers
                   {
                       Id = id,
                       ReqTitle = y.Field<string>("ReqTitle"),
+                      ReqAttach = y.Field<string>("ReqAttach"),
                       ReqContent = y.Field<string>("ReqContent"),
                       ReqHospital = y.Field<string>("ReqHospital"),
                       ReqSource = y.Field<string>("ReqSource"),
